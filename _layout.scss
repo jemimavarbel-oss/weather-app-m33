@@ -1,0 +1,9 @@
+.weather-app {
+    background: $bg;
+    color: $text;
+
+    &__footer {
+        background: $primary;
+        color: white;
+    }
+}

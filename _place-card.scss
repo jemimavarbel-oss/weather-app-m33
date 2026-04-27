@@ -1,0 +1,26 @@
+.place-card {
+    padding: 1rem;
+    border-radius: $card-radius;
+    background: white;
+    margin-bottom: 1rem;
+
+    &__name {
+        font-weight: bold;
+    }
+
+    &__temp {
+        font-size: 2rem;
+    }
+
+    &--sunny {
+        border-left: 6px solid orange;
+    }
+
+    &--cloudy {
+        border-left: 6px solid gray;
+    }
+
+    &--rainy {
+        border-left: 6px solid blue;
+    }
+}
