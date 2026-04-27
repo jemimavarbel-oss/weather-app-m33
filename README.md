@@ -1,15 +1,18 @@
 
-# App de Clima - Módulo 3
+# App de Clima – Módulo 3
 
-Aplicación de clima desarrollada con HTML, Bootstrap y SASS.
+Aplicación web de clima desarrollada con HTML, Bootstrap y SASS.
+
+## Temática
+La aplicación muestra información climática de distintas ciudades.
 
 ## Metodología de estilos
-Se utiliza BEM para nombrar bloques, elementos y modificadores.
+Se utilizó la metodología BEM para la organización de clases CSS.
 
 ## Estructura SASS
-- base: variables globales
-- layout: estructura general
-- components: tarjetas de lugares
+- base: variables y configuraciones globales
+- layout: estructura general de la app
+- components: tarjetas de lugares climáticos
 
-Repositorio: (agrega aquí tu GitHub)
-
+## Repositorio
+https://github.com/jemimavarbel-oss/weather-app-m33.git
